@@ -77,27 +77,22 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-![Screenshot 2023-10-25 094004](https://github.com/Yamunaasri/THRESHOLDING/assets/115707860/2e029ef4-1738-41e2-87e8-5b23c62fa188)
+![image](https://github.com/Jaiganesh235/THRESHOLDING-/assets/118657189/bcfc187a-fc43-4b83-8b44-43ee1336d76f)
+
 
 
 ### Global Thresholding
-![Screenshot 2023-10-25 094127](https://github.com/Yamunaasri/THRESHOLDING/assets/115707860/f849fbb3-5298-47e3-b19c-dc4c0860214d)
+![image](https://github.com/Jaiganesh235/THRESHOLDING-/assets/118657189/364edd5e-40d1-4168-8b65-2980533472df)
+![image](https://github.com/Jaiganesh235/THRESHOLDING-/assets/118657189/8cef3971-ddb9-48c3-8baf-7143a79dfe38)
 
-![Screenshot 2023-10-25 094143](https://github.com/Yamunaasri/THRESHOLDING/assets/115707860/e4c5e8cc-ca3f-4a52-b1cc-e440332fd6ad)
 
-![Screenshot 2023-10-25 094155](https://github.com/Yamunaasri/THRESHOLDING/assets/115707860/bb2a0d67-3abd-47e1-8675-62ac76f73635)
-
-![Screenshot 2023-10-25 094214](https://github.com/Yamunaasri/THRESHOLDING/assets/115707860/2354404b-fea9-449e-8544-7dfefe14babe)
-
-![Screenshot 2023-10-25 094233](https://github.com/Yamunaasri/THRESHOLDING/assets/115707860/a6a5872a-7eae-4906-9ef6-68addd815d03)
 
 ### Adaptive Thresholding
-![Screenshot 2023-10-25 094621](https://github.com/Yamunaasri/THRESHOLDING/assets/115707860/3d524d34-d22f-4380-b7b0-160683c4d127)
-
-![Screenshot 2023-10-25 094632](https://github.com/Yamunaasri/THRESHOLDING/assets/115707860/8779aef7-c48d-4169-8552-8cbfda919c8d)
+![image](https://github.com/Jaiganesh235/THRESHOLDING-/assets/118657189/5c56d103-0420-4353-b286-b7196d056fb5)
 
 ### Optimum Global Thesholding using Otsu's Method
-![Screenshot 2023-10-25 094733](https://github.com/Yamunaasri/THRESHOLDING/assets/115707860/0eb838d1-f05a-4dd8-bba2-31c1472b16e2)
+![image](https://github.com/Jaiganesh235/THRESHOLDING-/assets/118657189/dd25cc10-aa05-4806-8709-a575b188878c)
+
 
 
 ## Result
